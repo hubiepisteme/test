@@ -4,4 +4,6 @@ console.log(a);
 let b = 2;
 const c = 47;
 
-function d() {}
+function d() {};
+
+console.log(b);
